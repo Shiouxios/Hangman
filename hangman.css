@@ -1,0 +1,89 @@
+body {
+    font-family: "Open Sans";
+    background-color: steelblue;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 200;
+    color: white;
+    letter-spacing: 4px;
+    font-size: 4em;
+}
+
+h4 {
+    font-weight: 200;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 1.3em;
+}
+
+#message{
+    font-weight: 200;
+    color: white;
+    letter-spacing: 2px;
+}
+
+button {
+    border: none;
+    background-color: white;
+    height: 100%;
+    font-weight: 200;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: 1.1em;
+    transition: all 0.3s;
+    outline: none;
+}
+
+.modeButtons{
+    border: none;
+    background-color: steelblue;
+    height: 100%;
+    font-weight: 200;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 1.1em;
+    transition: all 0.3s;
+    outline: none;
+}
+
+.modeButtons:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+h1 {
+    color: steelblue;
+    text-align: center;
+    background-color: white;
+    margin: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 1.1;
+    padding: 20px 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    letter-spacing: 2px;
+}
+
+html, body {
+    margin:0;
+    padding:0;
+}
+
+em {
+    font-size: 0.5em;
+}
+
+.selected {
+    border: none;
+    background-color: white;
+    height: 100%;
+    font-weight: 200;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: 1.1em;
+    transition: all 0.3s;
+    outline: none;
+}
